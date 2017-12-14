@@ -6,7 +6,7 @@ package com.sully.concurrent;
 public class ConcurrencyTest {
     private static final long count=10000L;
     public static void main(String[] args) {
-
+        System.out.println("test");
     }
 
 }
